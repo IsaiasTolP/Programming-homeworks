@@ -1,0 +1,12 @@
+value_1 = input('Introduzca un valor: ')
+value_2 = input('Introduzca otro valor: ')
+int_value_1 = int(value_1)
+int_value_2 = int(value_2)
+sum_calc = int_value_1 + int_value_2
+substrac_calc = int_value_1 - int_value_2
+multiplication_calc = int_value_1 * int_value_2
+division_calc = int_value_1 / int_value_2
+print(f"{value_1}+{value_2}={sum_calc}")
+print(f"{value_1}-{value_2}={substrac_calc}")
+print(f"{value_1}*{value_2}={multiplication_calc}")
+print(f"{value_1}/{value_2}={division_calc}")
