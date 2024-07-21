@@ -1,0 +1,12 @@
+- [X] logical_chain
+- [X] smallest_unused_id
+- [X] pycheck: find_odds
+- [X] pycheck: reagent_formula
+- [X] pycheck: whats_next
+- [X] pycheck: npartition
+- [X] pycheck: add_length
+- [X] pycheck: reversing_words
+- [X] pycheck: barycenter
+- [X] pycheck: kpower
+- [X] pycheck: sort_numbers
+- [ ] pycheck: flatten_list_deep
