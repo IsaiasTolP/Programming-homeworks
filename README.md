@@ -1,6 +1,7 @@
 # Programming-homeworks-
 This repository contains some programming exercises, that I made by myself or as homework for my classes.
 Currently this repository contains:
+- Batch
 - Bash
 - Python
 - C++
